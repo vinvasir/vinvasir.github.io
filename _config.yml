@@ -1,0 +1,21 @@
+# Site settings
+title: Thinkering Along
+header-img: img/home-bg.png
+email: prat.vasireddy@gmail.com
+copyright_name: vinvasir
+description: > # this means to ignore newlines until "baseurl:"
+  Adventures in Code and Civic Engagement
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  vinvasir
+learn_profile: vinvasir
+email_username: prat.vasireddy@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
