@@ -4,7 +4,7 @@ header-img: img/home-bg.png
 email: prat.vasireddy@gmail.com
 copyright_name: vinvasir
 description: > # this means to ignore newlines until "baseurl:"
-  Adventures in Code and Civic Engagement
+  Adventures in Code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  vinvasir
